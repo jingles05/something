@@ -1,6 +1,6 @@
 basic.showArrow(ArrowNames.North)
 basic.showIcon(IconNames.Target)
-basic.showString("Hello!")
+basic.showString("HELLO!")
 basic.forever(function () {
 	
 })
